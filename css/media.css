@@ -1,0 +1,82 @@
+@media screen and (max-width: 767px) {
+    .container {
+        max-width: 90%;
+    }
+    .skills__icon {
+        display: block;
+    }
+    .icon {
+        margin-bottom: 50px;
+    }
+    .skills__star {
+        margin-top: -40px;
+        width: 35%;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .header {
+        display: none;
+    }
+    .hero__info {
+        display: block;
+    }
+    .hero__info h1 {
+        margin-bottom: 20px;
+    }
+    .hero__img {
+        margin-bottom: -30px;
+    }
+    .about__contant {
+        margin-top: -50px;
+        margin-bottom: -30px;
+    }
+    .about__contant p {
+        font-size: 14px;
+    }
+    .skills__container {
+        margin-top: -30px;
+        margin-bottom: -30px;
+    }
+    .skills__heading p {
+        margin-top: -40px;
+        font-size: 15px;
+    }
+    .skills__icon {
+        display: block;
+    }
+    .icon {
+        margin-bottom: 50px;
+    }
+    .skills__star {
+        margin-top: -40px;
+        width: 35%;
+    }
+    .temp__link {
+        margin-top: -20px;
+    }
+    .temp__link a {
+        font-size: 15px;
+    }
+    .portfolio__temp {
+        margin-top: -30px;
+    }
+}
+
+@media screen and (max-width: 533px) {
+    .hero__info {
+        display: block;
+    }
+    .hero__info h1 {
+        margin-bottom: 20px;
+    }
+    .hero__info p {
+        font-weight: 600;
+    }
+}
+
+@media screen and (max-width: 533px) {
+    .header {
+        display: none;
+    }
+}
